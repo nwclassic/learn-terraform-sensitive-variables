@@ -5,3 +5,5 @@ Learn how Terraform sensitive input variables help you manage sensitive informat
 Follow along [with this
 tutorial](https://learn.hashicorp.com/tutorials/terraform/sensitive-variables?in=terraform/configuration-language) on HashiCorp
 Learn.
+
+Be sure to destroy all when finished!
